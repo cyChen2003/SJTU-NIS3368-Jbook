@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknewcomment=self.webpackChunknewcomment||[]).push([[83],{83:function(e,c,n){e.exports=n.p+"static/media/s6343909.c27f37711975147608a0.jpg"}}]);

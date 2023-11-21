@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkantd_demo=self.webpackChunkantd_demo||[]).push([[299],{62299:function(e,t,a){e.exports=a.p+"static/media/mathtextbookdemo.ac07b03951f41fcd53bd.jpg"}}]);

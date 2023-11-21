@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknewcomment=self.webpackChunknewcomment||[]).push([[299],{299:function(e,t,c){e.exports=c.p+"static/media/mathtextbookdemo.ac07b03951f41fcd53bd.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknewcomment=self.webpackChunknewcomment||[]).push([[431],{431:function(e,n,t){e.exports=t.p+"static/media/OIP-C.e7a93012e62eb6501996.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknewcomment=self.webpackChunknewcomment||[]).push([[964],{964:function(e,t,c){e.exports=c.p+"static/media/99c329ea5df2585e22162a31ab1141b_FSoPtMv.596bf9e1e0be9789dd4f.jpg"}}]);
