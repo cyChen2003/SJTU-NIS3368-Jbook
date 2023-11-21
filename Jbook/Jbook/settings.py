@@ -95,7 +95,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME':'USERINFO',
         'USER':'22732',
-        'PASSWORD':'Ccy20030214',
+        'PASSWORD':'*********',
         'HOST':'localhost',
         'PORT':'3306',
     },
@@ -152,10 +152,10 @@ CAPTCHA_TIMEOUT = 2
 # 发送邮箱验证码
 EMAIL_HOST = "smtp.qq.com"     # 服务器
 EMAIL_PORT = 25                 # 一般情况下都为25
-EMAIL_HOST_USER = "2273202874@qq.com"     # 账号
-EMAIL_HOST_PASSWORD = "itkpbngtlpgweajf"     # （上面保存的授权码）
+EMAIL_HOST_USER = "XXXXXXXXX@qq.com"     # 账号
+EMAIL_HOST_PASSWORD = "XXXXXXXXX"     # （上面保存的授权码）
 EMAIL_USE_TLS = False       # 一般都为False
-EMAIL_FROM = "2273202874@qq.com"      # 邮箱来自
+EMAIL_FROM = "XXXXXXXXX@qq.com"      # 邮箱来自
 email_title = '邮箱激活'
 
 # Static files (CSS, JavaScript, Images)
